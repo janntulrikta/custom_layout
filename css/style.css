@@ -1,0 +1,26 @@
+.wrapper{
+	margin: 50px auto 0;
+	width: 90%;
+}
+.title h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.header, .hero, .body, .bar, .footer{
+	background-color: #397e7e;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: #e18ea5;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+.red{
+	background-color: #b52323;
+}
+.five{
+	background-color: #32b53c;
+}
